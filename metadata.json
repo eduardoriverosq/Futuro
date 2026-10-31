@@ -1,0 +1,6 @@
+{
+  "name": "Yo Aprendo · IA y el Futuro del Trabajo",
+  "description": "Plataforma interactiva sobre Inteligencia Artificial y el futuro del trabajo para estudiantes universitarios con herramientas prácticas, análisis de tendencias laborales, debates en tiempo real y gamificación. Autores y diseño instruccional: María Elena Rúa & Eduardo Riveros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
